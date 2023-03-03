@@ -1,6 +1,6 @@
 # Vega-Stealer
 <p align="center">
-      <img src="[![photo-2023-03-02-23-47-55.jpg](https://i.postimg.cc/vBxLMqW1/photo-2023-03-02-23-47-55.jpg)](https://postimg.cc/jwKJ4h3K)" width="726">
+      <img src="https://i.postimg.cc/vBxLMqW1/photo-2023-03-02-23-47-55.jpg" width="726">
 </p>
 
 <p align="center">
