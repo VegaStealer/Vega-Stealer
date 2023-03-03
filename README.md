@@ -35,9 +35,9 @@
 — поддержка Windows 7, 8, 8.1, 10, 11
 ## Распространение
 
-- [https://t.me/VegaStealer_bot]
-- Отзывы:https://t.me/VegaStealer
-- Чат:https://t.me/VegaStealer_Chat
+- Shop [https://t.me/VegaStealer_bot]
+- Отзывы: https://t.me/VegaStealer
+- Чат: https://t.me/VegaStealer_Chat
 
 © 2010 Vega Stealer
 
