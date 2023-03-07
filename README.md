@@ -1,9 +1,9 @@
-# ⚡️  Vega Stealer_v4 ⚡️
+# ⚡️  Vega Stealer_v2 ⚡️
 
 ![photo_2023-03-02_23-47-55](https://user-images.githubusercontent.com/122555617/222602023-7c8c0b20-a1a3-4e97-b4d4-0034da80f5e1.jpg)
 
 # 📜 Описание:
-- Что умеет Vega Stealer V4?
+- Что умеет Vega Stealer V2?
 
 Отправка логов в Telegram!
 
